@@ -1,1 +1,6 @@
-# ex_python_neps_academy
+Exercícios resolvidos em Python. 
+
+Lista disponível no site da Neps Academy: 
+https://neps.academy/
+
+
